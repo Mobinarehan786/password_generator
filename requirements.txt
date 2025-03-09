@@ -1,0 +1,6 @@
+streamlit
+pyperclip
+pandas
+pyotp
+cryptography
+
